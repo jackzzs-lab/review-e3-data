@@ -1,0 +1,85 @@
+,uniprot_id,gene_name,membrane,type,transmembrane_num
+0,Q9NZS9,BFAR,endoplasmic reticulum membrane,RING,4.0
+1,Q9UKV5,AMFR,endoplasmic reticulum membrane,RING,7.0
+2,Q5T197,DCST1,cell membrane,RING,6.0
+3,Q9Y4D8,HECTD4,membrane,HECTc,1.0
+4,Q96J02,ITCH,"cell membrane, cytoplasm, nucleus, early endosome membrane, endosome membrane",HECTc,
+5,Q8TDB6,DTX3L,"cytoplasm, nucleus, early endosome membrane, lysosome membrane",RING,
+6,A6NNE9,MARCHF11,cytoplasmic vesicle membrane,RING,2.0
+7,Q86UD3,MARCHF3,"cytoplasmic vesicle membrane, early endosome membrane",RING,2.0
+8,Q9P2E8,MARCHF4,golgi apparatus membrane,RING,2.0
+9,Q9NX47,MARCHF5,"mitochondrion outer membrane, endoplasmic reticulum membrane",RING,4.0
+10,Q8TCQ1,MARCHF1,"golgi apparatus, trans-golgi network membrane, lysosome membrane, cytoplasmic vesicle membrane, late endosome membrane, early endosome membrane, cell membrane",RING,2.0
+11,Q86YJ5,MARCHF9,"golgi apparatus membrane, lysosome membrane",RING,2.0
+12,Q9P0N8,MARCHF2,"endoplasmic reticulum membrane, lysosome membrane, endosome membrane",RING,2.0
+13,Q5T0T0,MARCHF8,"cytoplasmic vesicle membrane, lysosome membrane, early endosome membrane",RING,2.0
+14,Q86YT6,MIB1,"cytoplasm, cytoplasm, cytoskeleton, microtubule organizing center, centrosome, centriolar satellite, cell membrane",RING,
+15,Q7L5Y9,MAEA,"cytoplasm, nucleus, nucleoplasm, nucleus matrix, cell membrane, cytoplasm, cytoskeleton",RING,
+16,O60337,MARCHF6,endoplasmic reticulum membrane,RING,14.0
+17,Q969V5,MUL1,"mitochondrion outer membrane, peroxisome",RING,2.0
+18,Q8WY64,MYLIP,"cytoplasm, cell membrane",RING,
+19,P46934,NEDD4,"cytoplasm, cell membrane",HECTc,
+20,O76050,NEURL1,"cytoplasm, perinuclear region, cell membrane, perikaryon, cell projection, dendrite, cell junction, synapse, postsynaptic density",RING,
+21,Q6ZNB6,NFXL1,membrane,RING,1.0
+22,O60683,PEX10,peroxisome membrane,RING,
+23,O00623,PEX12,peroxisome membrane,RING,2.0
+24,O43164,PJA2,"cytoplasm, cell membrane, endoplasmic reticulum membrane, golgi apparatus membrane, cell junction, synapse, cell junction, synapse, postsynaptic density",RING,
+25,Q8WZ73,RFFL,recycling endosome membrane,RING,
+26,O00237,RNF103,endoplasmic reticulum membrane,RING,4.0
+27,Q9H920,RNF121,membrane,RING,6.0
+28,O60260,PRKN,"cytoplasm, cytosol, nucleus, endoplasmic reticulum, mitochondrion, mitochondrion outer membrane, cell projection, neuron projection, cell junction, synapse, postsynaptic density, cell junction, synapse, presynapse",RING,
+29,Q9H9V4,RNF122,"golgi apparatus, endoplasmic reticulum, membrane",RING,1.0
+30,Q9ULX5,RNF112,"membrane, membrane, cytoplasm, nucleus, nucleus, nuclear body, nucleus, nucleoplasm, endosome, cytoplasmic vesicle, secretory vesicle, synaptic vesicle, cell junction, synapse, postsynaptic density, perikaryon, cell projection, neuron projection",RING,2.0
+31,Q96EQ8,RNF125,golgi apparatus membrane,RING,
+32,P29590,PML,"cytoplasm, nucleus, pml body, endoplasmic reticulum membrane",RING,
+33,Q8WVZ7,RNF133,endoplasmic reticulum membrane,RING,1.0
+34,Q8WU17,RNF139,endoplasmic reticulum membrane,RING,12.0
+35,Q86XS8,RNF130,"membrane, cytoplasm",RING,1.0
+36,P50876,RNF144A,"cell membrane, cytoplasmic vesicle membrane",RING,1.0
+37,Q7Z419,RNF144B,"mitochondrion membrane, cytoplasm",RING,1.0
+38,Q8WVD5,RNF141,membrane,RING,
+39,Q8N8N0,RNF152,lysosome membrane,RING,1.0
+40,Q8TEB7,RNF128,"endomembrane system, cytoplasm, cytoskeleton, cytoplasm, perinuclear region",RING,1.0
+41,Q9H6Y7,RNF167,endomembrane system,RING,1.0
+42,Q8NC42,RNF149,membrane,RING,1.0
+43,Q96MT1,RNF145,endoplasmic reticulum membrane,RING,14.0
+44,Q8N7C7,RNF148,membrane,RING,1.0
+45,Q9ULK6,RNF150,membrane,RING,1.0
+46,Q96K19,RNF170,endoplasmic reticulum membrane,RING,3.0
+47,Q8N4F7,RNF175,membrane,RING,5.0
+48,Q96D59,RNF183,"endoplasmic reticulum membrane, endoplasmic reticulum, golgi apparatus, cis-golgi network membrane, lysosome membrane",RING,1.0
+49,Q9NXI6,RNF186,endoplasmic reticulum membrane,RING,2.0
+50,Q8N6D2,RNF182,"membrane, cytoplasm",RING,2.0
+51,Q9Y6U7,RNF215,membrane,RING,2.0
+52,Q9NV58,RNF19A,"membrane, cytoplasm, cytoskeleton, microtubule organizing center, centrosome",RING,2.0
+53,Q6ZMZ0,RNF19B,"cytoplasmic granule membrane, endoplasmic reticulum membrane",RING,2.0
+54,A6NCQ9,RNF222,membrane,RING,1.0
+55,E7ERA6,RNF223,membrane,RING,1.0
+56,Q96GF1,RNF185,"mitochondrion outer membrane, endoplasmic reticulum membrane",RING,2.0
+57,M0QZC1,RNF225,membrane,RING,1.0
+58,Q9BY78,RNF26,endoplasmic reticulum membrane,RING,5.0
+59,Q969K3,RNF34,"cell membrane, endomembrane system, nucleus, nucleus speckle, cytoplasm, cytosol",RING,
+60,Q9Y225,RNF24,golgi apparatus membrane,RING,1.0
+61,Q8TC41,RNF217,"membrane, cytoplasm",RING,1.0
+62,Q5M7Z0,RNFT1,endoplasmic reticulum membrane,RING,6.0
+63,Q96EX2,RNFT2,membrane,RING,4.0
+64,Q9HCE7,SMURF1,"cytoplasm, cell membrane",HECTc,
+65,A0AVI4,TMEM129,endoplasmic reticulum membrane,RING,3.0
+66,Q9HAU4,SMURF2,"nucleus, cytoplasm, cell membrane, membrane raft",HECTc,
+67,O60858,TRIM13,endoplasmic reticulum membrane,RING,1.0
+68,P36406,TRIM23,"cytoplasm, endomembrane system, golgi apparatus membrane, lysosome membrane",RING,
+69,Q86TM6,SYVN1,endoplasmic reticulum membrane,RING,6.0
+70,Q8IWR1,TRIM59,endoplasmic reticulum membrane,RING,1.0
+71,Q6ZMU5,TRIM72,"cell membrane, sarcolemma, cytoplasmic vesicle membrane",RING,
+72,Q6ZT12,UBR3,membrane,UBR,3.0
+73,Q5T4S7,UBR4,membrane,UBR,2.0
+74,Q9H270,VPS11,"endosome, late endosome membrane, lysosome membrane, early endosome, cytoplasmic vesicle, cytoplasmic vesicle, autophagosome, cytoplasmic vesicle, clathrin-coated vesicle",RING,
+75,P49754,VPS41,"endosome membrane, late endosome, lysosome, golgi apparatus, trans-golgi network, early endosome, cytoplasmic vesicle, clathrin-coated vesicle",RING,
+76,Q6PJI9,WDR59,lysosome membrane,RING,
+77,O95159,ZFPL1,"golgi apparatus, cis-golgi network membrane",RING,1.0
+78,Q9H0M0,WWP1,"cytoplasm, cell membrane, nucleus",HECTc,
+79,Q8ND25,ZNRF1,"cytoplasmic vesicle, secretory vesicle, synaptic vesicle membrane",RING,
+80,Q9ULT6,ZNRF3,cell membrane,RING,1.0
+81,Q8NHG8,ZNRF2,"endosome membrane, lysosome membrane, cell junction, synapse, presynaptic cell membrane",RING,
+82,Q8WWF5,ZNRF4,endoplasmic reticulum membrane,RING,1.0
+83,Q9P253,VPS18,"late endosome membrane, lysosome membrane, early endosome, cytoplasmic vesicle, autophagosome, cytoplasmic vesicle, clathrin-coated vesicle",RING,

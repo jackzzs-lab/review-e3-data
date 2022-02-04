@@ -1,0 +1,20 @@
+[
+{"uniprot_id": "Q9UKV5", "gene_name": "AMFR", "pdb_id": "4G3O", "resolution": 1.6, "chains": ["A"], "range": [456, 498]},
+{"uniprot_id": "Q96J02", "gene_name": "ITCH", "pdb_id": "5CQ2", "resolution": 1.4, "chains": ["A"], "range": [433, 521]},
+{"uniprot_id": "Q969V5", "gene_name": "MUL1", "pdb_id": "6M2D", "resolution": 1.79, "chains": ["A", "B", "C", "D", "E", "F"], "range": [297, 352]},
+{"uniprot_id": "Q8TDB6", "gene_name": "DTX3L", "pdb_id": "3PG6", "resolution": 1.7, "chains": ["A", "B", "C", "D"], "range": [601, 740]},
+{"uniprot_id": "Q8WY64", "gene_name": "MYLIP", "pdb_id": "2YHO", "resolution": 2.1, "chains": ["A", "C", "E", "G"], "range": [369, 445]},
+{"uniprot_id": "Q8WZ73", "gene_name": "RFFL", "pdb_id": "1Y02", "resolution": 1.8, "chains": ["A"], "range": [26, 145]},
+{"uniprot_id": "P46934", "gene_name": "NEDD4", "pdb_id": "4N7F", "resolution": 1.1, "chains": ["A", "B"], "range": [841, 874]},
+{"uniprot_id": "Q96EQ8", "gene_name": "RNF125", "pdb_id": "5DKA", "resolution": 1.55, "chains": ["A", "B"], "range": [1, 232]},
+{"uniprot_id": "Q86YT6", "gene_name": "MIB1", "pdb_id": "4XI6", "resolution": 2.04, "chains": ["A"], "range": [8, 402]},
+{"uniprot_id": "O60260", "gene_name": "PRKN", "pdb_id": "4I1F", "resolution": 1.58, "chains": ["A"], "range": [141, 465]},
+{"uniprot_id": "P29590", "gene_name": "PML", "pdb_id": "6UYR", "resolution": 1.3, "chains": ["B"], "range": [547, 574]},
+{"uniprot_id": "Q9HCE7", "gene_name": "SMURF1", "pdb_id": "3PYC", "resolution": 1.96, "chains": ["A"], "range": [13, 140]},
+{"uniprot_id": "P36406", "gene_name": "TRIM23", "pdb_id": "5VZV", "resolution": 1.81, "chains": ["A", "B", "C"], "range": [1, 123]},
+{"uniprot_id": "Q9HAU4", "gene_name": "SMURF2", "pdb_id": "1ZVD", "resolution": 2.1, "chains": ["A"], "range": [369, 748]},
+{"uniprot_id": "Q6ZMU5", "gene_name": "TRIM72", "pdb_id": "3KB5", "resolution": 1.5, "chains": ["A"], "range": [278, 470]},
+{"uniprot_id": "Q8ND25", "gene_name": "ZNRF1", "pdb_id": "5YWR", "resolution": 1.47, "chains": ["B"], "range": [139, 227]},
+{"uniprot_id": "Q8TEB7", "gene_name": "RNF128", "pdb_id": "3ICU", "resolution": 2.1, "chains": ["A"], "range": [38, 204]},
+{"uniprot_id": "Q9H0M0", "gene_name": "WWP1", "pdb_id": "5HPS", "resolution": 2.05, "chains": ["A"], "range": [537, 917]}
+]
