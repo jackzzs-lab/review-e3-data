@@ -7,7 +7,7 @@ A crawler for analyzing membrane-associated E3 ubiquitin ligase-related data.
 ```console
 conda create -n e3-data -c conda-forge ipykernel scrapy seaborn matplotlib pandas numpy
 ```
-3. run "run_crawler.py" to crawl data into "data/e3.json" and "data/e3_pdb.json". "data/e3.json" is a list of membrane-associated E3 ligases and their uniprot data. "data/e3_pdb.json" is a list of uniprot id and best pdb id found in RCSB PDB of the E3 ligases.
+3. run "run_crawler.py" to crawl data into "data/e3.json" and "data/e3_pdb.json". "data/e3.json" is a list of membrane-associated E3 ligases and their uniprot data. "data/e3_pdb.json" is a list of uniprot id and best pdb id found in RCSB PDB of the E3 ligases. All available PDBs of crawled proteins will also be downloaded to "data/pdb".
 4. add the conda environment into ipykernel.
 ```console
 python -m ipykernel install --user --name=e3-data
