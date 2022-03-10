@@ -27,6 +27,7 @@ class ProteinDataSpider(Spider):
         item["sequence"] = response.xpath("//sequence/text()").extract_first()
         item["subcellular_locations"] = response.xpath("//subcellularLocation/location[@evidence]/text()").extract()
         item["subcellular_topology"] = response.xpath("//subcellularLocation/topology[@evidence]/text()").extract()
+        item["go_locations"] = response.xpath('//dbReference[@type="GO"]/property[@type="term"]/@value').extract()
         
         features = []
         for t in response.xpath('//feature[@type="topological domain" or @type="transmembrane region"]'):

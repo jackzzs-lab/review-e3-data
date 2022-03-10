@@ -8,6 +8,7 @@ class ProteinDataItem(Item):
     ec_number = Field()
     sequence = Field()
     subcellular_locations = Field()
+    go_locations =Field()
     subcellular_topology = Field()
     features = Field()
     
