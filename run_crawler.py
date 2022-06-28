@@ -15,17 +15,17 @@ pdb_json_output = "./data/e3_pdb.json"
 pdb_output = "./data/pdb"
 os.makedirs(pdb_output, exist_ok=True)
 
-# # Parse E3 csv
-# e3_df = pd.read_csv(e3_csv)
-# e3_uniprot_list = e3_df[e3_uniprot_column].tolist()
+# Parse E3 csv
+e3_df = pd.read_csv(e3_csv)
+e3_uniprot_list = e3_df[e3_uniprot_column].tolist()
 
-# # Run crawler: protein_data
-# settings = get_project_settings()
-# settings["FEEDS"] = {Path(data_json_output): {"format": "json", "encoding": "utf8"}}
-# settings["ITEM_PIPELINES"] = {'e3data.pipelines.ProteinDataFilter': 300}
-# process = CrawlerProcess(settings=settings)
-# process.crawl(ProteinDataSpider, uniprot_ids=e3_uniprot_list)
-# process.start()
+# Run crawler: protein_data
+settings = get_project_settings()
+settings["FEEDS"] = {Path(data_json_output): {"format": "json", "encoding": "utf8"}}
+settings["ITEM_PIPELINES"] = {'e3data.pipelines.ProteinDataFilter': 300}
+process = CrawlerProcess(settings=settings)
+process.crawl(ProteinDataSpider, uniprot_ids=e3_uniprot_list)
+process.start()
 
 # Get filtered list
 with open(data_json_output, 'r') as f:
